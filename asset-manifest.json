@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/email-template-builder/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/email-template-builder/static/js/main.fff66388.chunk.js",
-    "main.js.map": "/email-template-builder/static/js/main.fff66388.chunk.js.map",
+    "main.js": "/email-template-builder/static/js/main.c7a9d4bf.chunk.js",
+    "main.js.map": "/email-template-builder/static/js/main.c7a9d4bf.chunk.js.map",
     "runtime-main.js": "/email-template-builder/static/js/runtime-main.6e2631ad.js",
     "runtime-main.js.map": "/email-template-builder/static/js/runtime-main.6e2631ad.js.map",
-    "static/js/2.614573c1.chunk.js": "/email-template-builder/static/js/2.614573c1.chunk.js",
-    "static/js/2.614573c1.chunk.js.map": "/email-template-builder/static/js/2.614573c1.chunk.js.map",
+    "static/js/2.a62a3c45.chunk.js": "/email-template-builder/static/js/2.a62a3c45.chunk.js",
+    "static/js/2.a62a3c45.chunk.js.map": "/email-template-builder/static/js/2.a62a3c45.chunk.js.map",
     "static/js/3.abd33eaa.chunk.js": "/email-template-builder/static/js/3.abd33eaa.chunk.js",
     "static/js/3.abd33eaa.chunk.js.map": "/email-template-builder/static/js/3.abd33eaa.chunk.js.map",
     "index.html": "/email-template-builder/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/email-template-builder/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.614573c1.chunk.js.LICENSE.txt": "/email-template-builder/static/js/2.614573c1.chunk.js.LICENSE.txt",
+    "static/js/2.a62a3c45.chunk.js.LICENSE.txt": "/email-template-builder/static/js/2.a62a3c45.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/email-template-builder/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6e2631ad.js",
-    "static/js/2.614573c1.chunk.js",
+    "static/js/2.a62a3c45.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.fff66388.chunk.js"
+    "static/js/main.c7a9d4bf.chunk.js"
   ]
 }
