@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/email-template-builder/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/email-template-builder/static/js/main.86e50628.chunk.js",
-    "main.js.map": "/email-template-builder/static/js/main.86e50628.chunk.js.map",
-    "runtime-main.js": "/email-template-builder/static/js/runtime-main.4e3a1bf1.js",
-    "runtime-main.js.map": "/email-template-builder/static/js/runtime-main.4e3a1bf1.js.map",
-    "static/js/2.b0582ffd.chunk.js": "/email-template-builder/static/js/2.b0582ffd.chunk.js",
-    "static/js/2.b0582ffd.chunk.js.map": "/email-template-builder/static/js/2.b0582ffd.chunk.js.map",
-    "static/js/3.0de29864.chunk.js": "/email-template-builder/static/js/3.0de29864.chunk.js",
-    "static/js/3.0de29864.chunk.js.map": "/email-template-builder/static/js/3.0de29864.chunk.js.map",
+    "main.js": "/email-template-builder/static/js/main.dfa144a5.chunk.js",
+    "main.js.map": "/email-template-builder/static/js/main.dfa144a5.chunk.js.map",
+    "runtime-main.js": "/email-template-builder/static/js/runtime-main.53315476.js",
+    "runtime-main.js.map": "/email-template-builder/static/js/runtime-main.53315476.js.map",
+    "static/js/2.ef249701.chunk.js": "/email-template-builder/static/js/2.ef249701.chunk.js",
+    "static/js/2.ef249701.chunk.js.map": "/email-template-builder/static/js/2.ef249701.chunk.js.map",
+    "static/js/3.dd46d75a.chunk.js": "/email-template-builder/static/js/3.dd46d75a.chunk.js",
+    "static/js/3.dd46d75a.chunk.js.map": "/email-template-builder/static/js/3.dd46d75a.chunk.js.map",
     "index.html": "/email-template-builder/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/email-template-builder/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.b0582ffd.chunk.js.LICENSE.txt": "/email-template-builder/static/js/2.b0582ffd.chunk.js.LICENSE.txt",
+    "static/js/2.ef249701.chunk.js.LICENSE.txt": "/email-template-builder/static/js/2.ef249701.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/email-template-builder/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e3a1bf1.js",
-    "static/js/2.b0582ffd.chunk.js",
+    "static/js/runtime-main.53315476.js",
+    "static/js/2.ef249701.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.86e50628.chunk.js"
+    "static/js/main.dfa144a5.chunk.js"
   ]
 }
