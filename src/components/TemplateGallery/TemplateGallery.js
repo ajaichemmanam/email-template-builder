@@ -12,18 +12,18 @@ const TemplateGallery = (props) => {
                 <div>
                     <h1>My Designs</h1>
 
-                    <p><Link to={`${match.url}new`}>New Design</Link></p>
+                    <p><Link to={`${match.url.endsWith('/') ? match.url : match.url + '/'}new`}>New Design</Link></p>
                 </div>
                 {data.templates.length ? data.templates.map((el, i, array) => {
                     return (
                         <div key={i}>
 
-                            <p><Link to={{ pathname: `${match.url}edit/${el.id}`, state: el }}>{i + 1}. {el.name}</Link></p>
+                            <p><Link to={{ pathname: `${match.url.endsWith('/') ? match.url : match.url + '/'}edit/${el.id}`, state: el }}>{i + 1}. {el.name}</Link></p>
                         </div>
                     )
                 }) : <div> No Templates Available</div>}
             </Route>
-            <Route path={`${match.path}/new`} exact={true} render={(props) => {
+            <Route path={`${match.path.endsWith('/') ? match.path : match.path + '/'}new`} exact={true} render={(props) => {
                 return <EmailBuilder {...props} edit={false} />
             }} />
 
